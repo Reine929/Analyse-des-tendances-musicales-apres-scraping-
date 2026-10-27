@@ -1,0 +1,5 @@
+.env
+playlist.json
+playlist_full.json
+__pycache__/
+.ipynb_checkpoints/
